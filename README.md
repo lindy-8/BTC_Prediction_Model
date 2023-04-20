@@ -16,6 +16,17 @@ This project utilizes python 3.7 with the following:
 
 
 ---
+## Result Images
+
+### Sentiment Prediction
+
+![Sentiment_Predictions](https://user-images.githubusercontent.com/117557983/233494519-184f5d94-f5b3-4b45-94ae-f0ca48fefb56.png)
+
+
+### Closing Price Prediction
+
+![CLosing_Predictions](https://user-images.githubusercontent.com/117557983/233494529-04fcd821-ab10-49c9-a6a2-b2ae3fe4b72d.png)
+--- 
 
 ## Pre Installation Guide
 
